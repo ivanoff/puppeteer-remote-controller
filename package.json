@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-remote-controller",
+  "version": "6.0.2",
+  "description": "puppeteer remote controller",
+  "main": "src/index.js",
+  "keywords": [
+    "puppeteer",
+    "remote",
+    "controller"
+  ],
+  "author": "Dimitry Ivanov <2@ivanoff.org.ua> # curl -A cv ivanoff.org.ua",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanoff/puppeteer-remote-controller.git"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
